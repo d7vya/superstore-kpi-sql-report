@@ -5,7 +5,7 @@ This project is focused on generating KPI reports using SQL views from the Super
 ## 🚧 Project Status
 - [x] Dataset explored
 - [x] KPI suggestions listed
-- [ ] Schema finalized
+- [x] Schema finalized
 - [ ] SQL views built
 - [ ] Dashboard (Power BI)
 
